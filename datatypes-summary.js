@@ -18,3 +18,6 @@ let myObj={
 }
 
 //function(){}
+
+// Stack (Primitive) & Heap (Non Primitive)
+

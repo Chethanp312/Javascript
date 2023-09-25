@@ -12,4 +12,4 @@ let str1 = "Hello";
 let str2 = " Chethan";
 let str = str1 + str2;
 
-console.log(str);
+//console.log(str);
